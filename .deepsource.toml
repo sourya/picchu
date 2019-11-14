@@ -5,4 +5,4 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_path = "github.com/Medium/picchu"
+  import_path = "go.medium.engineering/picchu"
